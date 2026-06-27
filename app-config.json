@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "registry": {
+    "1": "≤2.0.0",
+    "2": "2.0.0/2.0.1",
+    "3": "2.0.3",
+    "4": "4.0.0",
+    "5": "(reserved for 5.x)",
+    "0": "3.0.0"
+  },
+  "channels": {
+    "stable": { "small": "2.0.3", "big": "2.0.3" },
+    "beta": { "small": "4.0.0-alpha.1", "big": "4.0.0-alpha.1" }
+  },
+  "offers": [
+    { "fromByte": 3, "channel": "beta", "to": "4.0.0", "enrolledOnly": true }
+  ]
+}
