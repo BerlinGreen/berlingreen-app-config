@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3C798LMF8Z.com.berlingreen.ios"],
+        "components": [
+          {
+            "/": "*",
+            "comment": "This host exists only for the app, so every path is an app link."
+          }
+        ]
+      }
+    ]
+  }
+}

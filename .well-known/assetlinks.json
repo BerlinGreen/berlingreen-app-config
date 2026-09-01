@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.berlingreen.android",
+      "sha256_cert_fingerprints": [
+        "D8:32:0C:03:13:3B:A9:86:77:6F:D9:72:8A:81:44:14:F2:73:F7:47:C8:D7:55:A8:75:9E:71:A1:28:CA:24:50",
+        "BC:49:C0:DF:8B:05:27:15:AC:46:6D:0F:59:09:23:09:91:AB:D8:9D:E1:27:F8:B4:54:EC:E0:F9:A9:40:00:E9"
+      ]
+    }
+  }
+]
