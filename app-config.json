@@ -10,9 +10,10 @@
   },
   "channels": {
     "stable": { "small": "2.0.3", "big": "2.0.3" },
-    "beta": { "small": "4.0.0-alpha.1", "big": "4.0.0-alpha.1" }
+    "beta": { "small": "4.0.0-alpha.2", "big": "4.0.0-alpha.2" }
   },
   "offers": [
-    { "fromByte": 3, "channel": "beta", "to": "4.0.0", "enrolledOnly": true }
+    { "fromByte": 3, "channel": "beta", "to": "4.0.0", "enrolledOnly": true },
+    { "fromByte": 6, "channel": "beta", "to": "4.0.0-alpha.2", "enrolledOnly": true }
   ]
 }
